@@ -1,0 +1,5 @@
+name, quantity, manufacturer, priceInUAH, weightInKilos, isForHikingCamping, thickness
+BlanketX, 15, ZKF, 1800.0, 2.0, false, 0.4
+Bree, 40, LHPR, 800.0, 0.4, true, 1.7
+Oroblam, 6, MBL, 400.0, 0.15, true, 250.0
+Tent-S, 4, TMC, 2500.0, 2.0, true, 6.0, 2.5, 2, ETI
